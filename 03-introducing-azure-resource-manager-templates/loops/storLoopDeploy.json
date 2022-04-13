@@ -5,7 +5,7 @@
         "storageCount": {
             "type": "int",
             "metadata": {
-                "description": "number of storage accounts to be deployed"
+                "description": "number of storage accounts to be deployed - Grugel Sebastian"
             }
         }
     },
